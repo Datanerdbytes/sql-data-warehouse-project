@@ -1,8 +1,8 @@
 # Data Dictionary for Gold Layer
 
-## The Gold Layer is the business-level representation, structured to support and reporting use cases. It consists of dimension tables and fact tables for specific business metrics.
+### The Gold Layer is the business-level representation, structured to support and reporting use cases. It consists of dimension tables and fact tables for specific business metrics.
 
-### `1. gold.dim_customers`
+### `1.gold.dim_customers`
 
 | Column Name     | Data Type         | Description                                                                    |
 | --------------- | ----------------- | ------------------------------------------------------------------------------ |
@@ -19,7 +19,7 @@
 
 ---
 
-### `2. gold.dim_products`
+### `2.gold.dim_products`
 
 | Column Name    | Data Type         | Description                                                                               |
 | -------------- | ----------------- | ----------------------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@
 
 ---
 
-### `3. gold.fact_sales`
+### `3.gold.fact_sales`
 
 | Column Name   | Data Type | Description                                                |
 | ------------- | --------- | ---------------------------------------------------------- |
