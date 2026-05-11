@@ -60,9 +60,9 @@ The data architecture for this project follows the Medallion Architecture __Bron
 ---
 
 ## 🛡️ License
----
+
 This project is licensed under the [MIT Licensed](LICENSE). You are free to use, modify, and share this project with proper attribution.
----
+
 ### 🌟 About Me
 
 
